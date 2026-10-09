@@ -36,6 +36,10 @@
 
             <div class="form-group">
                 <label asp-for="CPF" class="control-label"></label>
+                    @if(ViewData["MSG_CPF"] != null)
+                    {
+                       <p class="alert alert-danger">@Html.Raw(ViewData["MSG_CPF"])</p> 
+                    }
                 <input asp-for="CPF" class="form-control" />
                 <span asp-validation-for="CPF" class="text-danger"></span>
             </div>
@@ -48,6 +52,10 @@
 
             <div class="form-group">
                 <label asp-for="Email" class="control-label"></label>
+                @if (ViewData["MSG_Email"] != null)
+                {
+                    <p class="alert alert-danger">@Html.Raw(ViewData["MSG_Email"])</p>
+                }
                 <input asp-for="Email" class="form-control" />
                 <span asp-validation-for="Email" class="text-danger"></span>
             </div>

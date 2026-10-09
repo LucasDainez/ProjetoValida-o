@@ -16,7 +16,12 @@
   <ItemGroup>
     <Folder Include="Views\Colaborador\" />
     <Folder Include="wwwroot\img\" />
+    <Folder Include="wwwroot\lib\mask\" />
     <Folder Include="wwwroot\resources\lib\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\jQuery-Mask-Plugin-master\jQuery-Mask-Plugin-master\dist\jquery.mask.min.js" Link="wwwroot\lib\mask\jquery.mask.min.js" />
   </ItemGroup>
 
 </Project>
