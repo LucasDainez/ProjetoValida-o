@@ -2718,7 +2718,6 @@ C:\Users\3MTEC\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\scopedc
 C:\Users\3MTEC\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\scopedcss\projectbundle\ProjetoNilson4.bundle.scp.css
 C:\Users\3MTEC\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\compressed\x0q1mjsat5-{0}-i5ca65dwty-i5ca65dwty.gz
 C:\Users\3MTEC\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\compressed\9zym5w42od-{0}-61n19gt1b8-61n19gt1b8.gz
-C:\Users\3MTEC\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\compressed\bgm3pdq31f-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\3MTEC\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\compressed\djqx1sqy7x-{0}-t1cqhe9u97-t1cqhe9u97.gz
 C:\Users\3MTEC\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\compressed\phlv4otahu-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\3MTEC\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\compressed\04x8ze5g7y-{0}-sejl45xvog-sejl45xvog.gz
@@ -2885,3 +2884,5 @@ C:\Users\3MTEC\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\refint\
 C:\Users\3MTEC\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\ProjetoNilson4.pdb
 C:\Users\3MTEC\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\ProjetoNilson4.genruntimeconfig.cache
 C:\Users\3MTEC\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\ref\ProjetoNilson4.dll
+C:\Users\3mtec\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\compressed\bgm3pdq31f-{0}-dxmzy6lvhu-dxmzy6lvhu.gz
+C:\Users\3mtec\Desktop\projetoNilson5.1\ProjetoNilson4\obj\Debug\net10.0\compressed\da41t532cu-{0}-6g9cgyi5ef-6g9cgyi5ef.gz
