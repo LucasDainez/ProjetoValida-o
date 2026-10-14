@@ -24,7 +24,7 @@ namespace ProjetoNilson4.Controllers
         [HttpPost]
         public IActionResult Cadastro([FromForm]Cliente cliente)
         {
-            var CPFExit = _clienteRepository.BuscaCpfCliente(cliente.CPF).CPF;
+            var CPFExit = _clienteRepository.BuscaCpfCliente(cliente.CPF.Replace("-", "").Replace(".", "")).CPF;
             var EmailExit = _clienteRepository.BuscaEmailCliente(cliente.Email).Email;
             if(!string.IsNullOrWhiteSpace(CPFExit))
             {
